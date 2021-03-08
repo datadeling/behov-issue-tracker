@@ -10,7 +10,7 @@ assignees: ''
 Som:
 Ønsker jeg å:
 Slik at:
-
+------------------
 Tilknyttede brukerhistorier:
 
 Lenke til trådskisser:
