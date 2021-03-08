@@ -1,6 +1,6 @@
 ---
 name: Brukerhistorie
-about: Describe this issue template's purpose here.
+about: Mal for brukerhistorie.
 title: "[BRUKERHISTORIE]"
 labels: userstory
 assignees: ''
@@ -13,7 +13,7 @@ Slik at:
 
 Relatert til epos:
 
-Lenke til design: 
+Lenke til design:
 Lenke til løsningsarkitektur:
 
 Forretningsverdi (Kritisk/Viktig/Mindre viktig/Kjekt å ha):
