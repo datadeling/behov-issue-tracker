@@ -1,6 +1,6 @@
 ---
 name: Epos
-about: about: Mal for epos.
+about: Mal for epos.
 title: "[EPOS]"
 labels: epic
 assignees: ''
